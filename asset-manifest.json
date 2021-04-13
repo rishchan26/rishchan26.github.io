@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rishchan26.github.io/static/css/main.d8fe2741.chunk.css",
+    "main.js": "/rishchan26.github.io/static/js/main.631e0856.chunk.js",
+    "main.js.map": "/rishchan26.github.io/static/js/main.631e0856.chunk.js.map",
+    "runtime-main.js": "/rishchan26.github.io/static/js/runtime-main.60788df6.js",
+    "runtime-main.js.map": "/rishchan26.github.io/static/js/runtime-main.60788df6.js.map",
+    "static/js/2.c360342c.chunk.js": "/rishchan26.github.io/static/js/2.c360342c.chunk.js",
+    "static/js/2.c360342c.chunk.js.map": "/rishchan26.github.io/static/js/2.c360342c.chunk.js.map",
+    "index.html": "/rishchan26.github.io/index.html",
+    "static/css/main.d8fe2741.chunk.css.map": "/rishchan26.github.io/static/css/main.d8fe2741.chunk.css.map",
+    "static/js/2.c360342c.chunk.js.LICENSE.txt": "/rishchan26.github.io/static/js/2.c360342c.chunk.js.LICENSE.txt",
+    "static/media/animoji.bef48606.mp4": "/rishchan26.github.io/static/media/animoji.bef48606.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60788df6.js",
+    "static/js/2.c360342c.chunk.js",
+    "static/css/main.d8fe2741.chunk.css",
+    "static/js/main.631e0856.chunk.js"
+  ]
+}
