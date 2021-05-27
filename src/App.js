@@ -33,7 +33,7 @@ function App() {
                     </video>
                 </div>
             </div>
-            <div>
+            <div className="footer">
                 <div className="icon-tray">
                     <a href="https://www.linkedin.com/in/rishabhchanana26/" target="_blank" rel="noreferrer"><img src={linkedInWhite} className="icon" alt=""/></a>
                     <a href="https://twitter.com/ChananaRishabh" target="_blank" rel="noreferrer"><img src={twitterWhite} className="icon" alt=""/></a>
